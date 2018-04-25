@@ -4,6 +4,6 @@
 * Question 2
   - Likn :
 * Question 3
-  - SQL script to create a data table to store the visitor assignment data
+  - SQL script to create a data table to store the visitor assignment data : answers/Q3_table.sql
   - python script
   - SQL queries that will help answer the questions A and B 
